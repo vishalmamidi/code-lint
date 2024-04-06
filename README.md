@@ -6,3 +6,6 @@
 
 `https://github.com/greenbone/openvas-scanner`
 
+`https://github.com/marketplace/actions/super-linter`
+
+`https://github.com/oxsecurity/megalinter`
